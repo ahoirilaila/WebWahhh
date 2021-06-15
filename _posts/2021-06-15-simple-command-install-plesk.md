@@ -1,8 +1,8 @@
 ---
 layout: post
-title: SIMPLE COMMAND INSTALL PLESK
+title: Simple Command Install Plesk
 summary: Cara mudah install Plesk Panel! 1 Baris kode, Duarrrr! Plesk terinstall
-categories: How To
+categories: HowTo
 tags: 
 - Plesk
 - How To
