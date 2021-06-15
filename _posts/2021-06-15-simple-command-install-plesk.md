@@ -9,8 +9,7 @@ tags:
 comments: true
 ---
 
-> Plesk is a commercial web hosting platform with a control panel that allows a server administrator to set up new websites, reseller accounts, e-mail accounts and DNS entries through a web-based interface.
-> ** – Wikipedia**
+> Plesk is a commercial web hosting platform with a control panel that allows a server administrator to set up new websites, reseller accounts, e-mail accounts and DNS entries through a web-based interface. - Kata Wikipedia
 
 Mudahnya, Plesk itu panel untuk melakukan pengaturan web hosting. Saat ini sudah banyak penyedia Hosting yang menggunakan Plesk Panel.
 
