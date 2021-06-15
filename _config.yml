@@ -11,11 +11,11 @@ locale: en_US
 
 ### Personal info and site tools info:
 twitter_username: 
-github_username:  yulijia
-disqus_shortname: freshman21
-favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
-aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg# your photo.
+github_username:  
+disqus_shortname: wahidemalution
+favicon:     "https://i.imgur.com/CnLywy7.png"
+aboutme: Hallo! Aku wahid, kamu siapa? # these are shown on aboutme-sidebar.
+aboutme_photo: https://i.imgur.com/CnLywy7.png# your photo.
 google_analytics_key:  # put YOUR key here to enable tracking! (blank to disable)
 
 
@@ -28,7 +28,7 @@ locales:
     en:
       Aboutme: "About Me"
       Archives: "Archives"
-      Blogroll: "Blogroll"
+      ##Blogroll: "Blogroll"
       Categories: "Categories"
       Copyright_Notice: "Copyright Notice"
       Recent_Posts: "Recent Posts"
@@ -41,8 +41,8 @@ locales:
       Google_search: "Site Search"
       Home: "Home"
       About: "About"
-      Guestbook: "Guestbook"
-      Subscribe: "Subscribe"
+      ##Guestbook: "Guestbook"
+      ##Subscribe: "Subscribe"
     cn:
       Aboutme: "关于我"
       Archives: "存档"
@@ -188,5 +188,5 @@ kramdown:
         input: GFM
         syntax_highlighter: rouge
 plugins: [jekyll-paginate]
-paginate: 5
+paginate: 8
 excerpt_separator: <!-- more -->
