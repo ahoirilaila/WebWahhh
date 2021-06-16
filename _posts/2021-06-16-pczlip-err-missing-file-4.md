@@ -30,10 +30,10 @@ if ( !defined('ABSPATH') )
 
 3. Setelah itu tambahkan kode berikut dibawahnya,
 
-<code>
+{% highlight %}
 /** Specify wordpress temp dir */
-
 define('WP_TEMP_DIR', ABSPATH . 'wp-content/temp');
-</code>
+{% endhighlight %}
+
 
 Coba lakukan instalasi kembali.
