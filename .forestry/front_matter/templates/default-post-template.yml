@@ -1,0 +1,25 @@
+---
+label: Default Post Template
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: summary
+  label: summary
+- type: text
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+- type: boolean
+  name: comments
+  label: comments
