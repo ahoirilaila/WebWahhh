@@ -1,11 +1,11 @@
 ### Site info:
-title: Catatan Wahid
+title: Catatan WahidWahid
 tagline: Catatan pribadi, karena saya pelupa
 author: Damn Wahhh
 email: admin@wahid.my.id
 description: "Website pribadi, isinya catatan sederhana. Tapi kalau bermanfaat ya alhamdulillah." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "Jekyll, WHM, cPanel, Plesk, Hosting, Domain, Wordpress, Website, Blog, Webbuzo, technology, tech"
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://wahhh.my.id/" # the base hostname & protocol for your site
 locale: en_US
 
