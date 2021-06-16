@@ -10,6 +10,8 @@ comments: true
 
 Salah satu command pada linux yang biasa digunakan untuk melihat isi dari suatu file. Penggunaan seperti berikut,
 
-<code>mitsuha@LAPTOP-VNPTM1TJ:~$ cat wahhh</code>
+~~~
+mitsuha@LAPTOP-VNPTM1TJ:~$ cat wahhh</code>
+~~~
 
 !(https://i.imgur.com/3ZaHAij.png "cat command Linux")
