@@ -2,6 +2,7 @@
 layout: post
 title: CAT
 summary: Mengenal salah satu command yang gemoyy~
+permalink: /cat-command-linux/
 categories: Command
 tags: 
 - Command
