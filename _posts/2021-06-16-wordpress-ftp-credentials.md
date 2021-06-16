@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Wordpress FTP Credentials
+permalink: /wordpress-ftp-credentials/
 summary: Mengatasi FTP Credentials pada Wordpress ~
 categories: wordpress HowTo
 tags: 

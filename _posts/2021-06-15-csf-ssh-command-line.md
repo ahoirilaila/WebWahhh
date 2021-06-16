@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CSF SSH Command Line
+permalink: /csf-ssh-command-line/
 summary: Cheat Sheet CSF Command Line biar nda salah ketik! Yahaha Hayuk
 categories: Command
 tags: 
