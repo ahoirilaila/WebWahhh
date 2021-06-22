@@ -19,12 +19,17 @@ Jika ingin suspend akun cPanel bisa dilakukan melalui 1 Command.
 1. Login SSH WHM
 2. Jalankan command,
 
-    /scripts/suspendacct [account] [options]
+~~~
+/scripts/suspendacct [account] [options]
+~~~
+
 
 ### Unsuspend Akun cPanel Hosting
 
 Berikut commandnya,
 
-    /scripts/unsuspendacct [account] [options]
+~~~
+/scripts/unsuspendacct [account] [options]
+~~~
 
 Jangan lupa tekan enter setelah ketik command agar bisa tereksekusi.
