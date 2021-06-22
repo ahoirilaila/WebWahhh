@@ -24,4 +24,4 @@ fields:
   name: comments
   label: comments
 pages:
-- _posts/suspend-unsuspend-cpanel-using-cli.md
+- _posts/2021-06-22-suspend-unsuspend-cpanel-using-cli.md
