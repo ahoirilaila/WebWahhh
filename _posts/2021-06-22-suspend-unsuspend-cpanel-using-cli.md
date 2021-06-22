@@ -14,10 +14,10 @@ comments: true
 ---
 ### Suspend Akun cPanel Hosting
 
-Jika ingin suspend akun cPanel bisa dilakukan melalui 1 Command. 
+Jika ingin suspend akun cPanel bisa dilakukan melalui 1 Command.
 
 1. Login SSH WHM
-2. Jalankan command, 
+2. Jalankan command,
 
     /scripts/suspendacct [account] [options]
 
