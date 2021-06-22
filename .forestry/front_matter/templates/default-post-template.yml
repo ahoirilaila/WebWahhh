@@ -23,3 +23,5 @@ fields:
 - type: boolean
   name: comments
   label: comments
+pages:
+- _posts/suspend-unsuspend-cpanel-using-cli.md
