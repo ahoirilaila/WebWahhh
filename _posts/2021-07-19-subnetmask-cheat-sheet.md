@@ -29,4 +29,6 @@ Kadang lupa /30 bisa berapa host. Jadi aku buat SubnetMask Cheat Sheet aja, biar
 | /17 | 32768     | 32766 | 255.255.128.0   |
 | /16 | 65536     | 65534 | 255.255.0.0     |
 
-**Jealous? Talk to me boss! Pal pale pal pale **
+
+
+**Jealous? Talk to me boss! Pal pale pal pale**.
