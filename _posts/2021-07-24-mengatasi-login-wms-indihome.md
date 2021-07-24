@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mengatasi login WMS indihome yang tidak muncul 
-permalink: /sample-post/
+permalink: /mengatasi-login-wms-indihome/
 excerpt: "Login WMS tapi tidak muncul halaman loginnya~ Aku sayang indihome"
 categories: articles
 tags: [sample-post]
